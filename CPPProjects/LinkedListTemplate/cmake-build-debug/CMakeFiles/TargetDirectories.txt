@@ -1,0 +1,3 @@
+/Users/giladbitton/CLionProjects/LinkedListTemplate/cmake-build-debug/CMakeFiles/untitled3.dir
+/Users/giladbitton/CLionProjects/LinkedListTemplate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/giladbitton/CLionProjects/LinkedListTemplate/cmake-build-debug/CMakeFiles/rebuild_cache.dir

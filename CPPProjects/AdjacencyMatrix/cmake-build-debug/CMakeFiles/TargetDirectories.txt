@@ -1,0 +1,3 @@
+/Users/giladbitton/CLionProjects/AdjacencyMatrix/cmake-build-debug/CMakeFiles/AdjacencyMatrix.dir
+/Users/giladbitton/CLionProjects/AdjacencyMatrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/giladbitton/CLionProjects/AdjacencyMatrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
